@@ -4,7 +4,7 @@
 
 Arriving at a full BIXI station is inconvenient—especially when the next station is far from your destination. This independent applied-ML project investigates a practical question: **Will there be at least one free dock (or one bike) when I arrive in 15–30 minutes?**
 
-The current research prototype combines historical trip-demand models with live BIXI station status. It is **not** an official BIXI product, and the arrival-time availability estimates are still being validated.
+The current research prototype combines historical trip-demand models with live BIXI station status. 
 
 ## At a glance
 
