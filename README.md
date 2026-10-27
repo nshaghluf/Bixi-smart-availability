@@ -62,4 +62,4 @@ The documented metrics summarize completed local experiments. **The notebooks, m
 
 ## Acknowledgment
 
-This is an **independent personal portfolio project**, not affiliated with or endorsed by BIXI. The project uses BIXI's published trip data and public GBFS information; trademarks and original data remain with their respective owners.
+This is an **independent personal portfolio project**. The project uses BIXI's published trip data and public GBFS information.
