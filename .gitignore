@@ -1,0 +1,28 @@
+# Local environment and credentials
+.venv/
+.venv-*/
+venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Source data / large intermediates (keep reproducibility instructions instead)
+data/raw/
+data/processed/
+data/interim/
+*.parquet
+*.csv
+*.joblib
+*.pkl
+*.cbm
+catboost_info/
+models/
+checkpoints/
+
+# Local reports/logs
+logs/
+*.log
